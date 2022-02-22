@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ICS434.iml" filepath="$PROJECT_DIR$/.idea/ICS434.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data-wrangling-angcylau/.idea/data-wrangling-angcylau.iml" filepath="$PROJECT_DIR$/../data-wrangling-angcylau/.idea/data-wrangling-angcylau.iml" />
     </modules>
   </component>
 </project>

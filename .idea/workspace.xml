@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc134bbd-2941-47c9-8eb0-10bd8dea03d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/module_2/experience-exploratory_data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module_2/experience-exploratory_data_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ICS434.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ICS434.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-wrangling-angcylau/Assignment_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../data-wrangling-angcylau/Assignment_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-wrangling-angcylau/data/medicaid_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data-wrangling-angcylau/data/medicaid_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../data-wrangling-angcylau" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -27,6 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24n6fuGv9n7nOTSOm6k37qZdn0N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_2/experience-read-explore-data.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../data-wrangling-angcylau" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
